@@ -1,0 +1,14 @@
+data,users	631
+information,users	363
+company,data	353
+data,information	330
+data,people	243
+company,users	220
+company,information	137
+information,people	130
+company,people	118
+people,users	96
+company,facebook	3
+cambridge,facebook	2
+facebook,information	2
+facebook,users	2
